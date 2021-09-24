@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.0](https://www.github.com/TheRakeshPurohit/istanbuljs/compare/istanbul-lib-instrument-v5.0.2...istanbul-lib-instrument-v6.0.0) (2021-09-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* istanbul-lib-instrument no longer uses babel
+
+### Bug Fixes
+
+* **build:** verfiy automated publication ([b232690](https://www.github.com/TheRakeshPurohit/istanbuljs/commit/b232690193f4b524332046c96dd1cdc6e881c6c7))
+* **build:** verfiy automated publication ([74c96bd](https://www.github.com/TheRakeshPurohit/istanbuljs/commit/74c96bdc4224a06e2e1166ebd9adf8faf28438b1))
+
+
+### Code Refactoring
+
+* istanbul-lib-instrument no longer uses babel ([8d3badb](https://www.github.com/TheRakeshPurohit/istanbuljs/commit/8d3badb8f6c9a4bed9af8e19c3ac6459ebd7267b))
+
 ### [5.0.2](https://www.github.com/istanbuljs/istanbuljs/compare/istanbul-lib-instrument-v5.0.1...istanbul-lib-instrument-v5.0.2) (2021-09-13)
 
 
