@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [3.0.6](https://www.github.com/TheRakeshPurohit/istanbuljs/compare/istanbul-reports-v3.0.5...istanbul-reports-v3.0.6) (2021-11-26)
+
+
+### Bug Fixes
+
+* cobertura reports in root folder ([#571](https://www.github.com/TheRakeshPurohit/istanbuljs/issues/571)) ([596f6ff](https://www.github.com/TheRakeshPurohit/istanbuljs/commit/596f6ff1342ae4baa6688bf3ee7786c75d4df947))
+* handle reports with "loc" but no "decl" ([#637](https://www.github.com/TheRakeshPurohit/istanbuljs/issues/637)) ([cdc28f3](https://www.github.com/TheRakeshPurohit/istanbuljs/commit/cdc28f3a1e80e786eaab3b7d3b8b9b558fc2d3c8)), closes [#322](https://www.github.com/TheRakeshPurohit/istanbuljs/issues/322)
+* lcov reporter crash when missing branches ([#613](https://www.github.com/TheRakeshPurohit/istanbuljs/issues/613)) ([d34981c](https://www.github.com/TheRakeshPurohit/istanbuljs/commit/d34981c8131e2ecbff6fc02ffd8702fd9808e241))
+
 ### [3.0.5](https://www.github.com/istanbuljs/istanbuljs/compare/istanbul-reports-v3.0.4...istanbul-reports-v3.0.5) (2021-10-13)
 
 

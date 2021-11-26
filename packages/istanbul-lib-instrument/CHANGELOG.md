@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.0](https://www.github.com/TheRakeshPurohit/istanbuljs/compare/istanbul-lib-instrument-v5.1.0...istanbul-lib-instrument-v6.0.0) (2021-11-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* istanbul-lib-instrument no longer uses babel
+
+### Features
+
+* option to evaluate logical truthiness, for applications such as fuzzing ([#629](https://www.github.com/TheRakeshPurohit/istanbuljs/issues/629)) ([a743b84](https://www.github.com/TheRakeshPurohit/istanbuljs/commit/a743b8442e977f0c77ffa282eed7ac84ca200d1f))
+
+
+### Bug Fixes
+
+* **build:** verfiy automated publication ([b232690](https://www.github.com/TheRakeshPurohit/istanbuljs/commit/b232690193f4b524332046c96dd1cdc6e881c6c7))
+* **build:** verfiy automated publication ([74c96bd](https://www.github.com/TheRakeshPurohit/istanbuljs/commit/74c96bdc4224a06e2e1166ebd9adf8faf28438b1))
+* coverage.branchMap else location. ([#633](https://www.github.com/TheRakeshPurohit/istanbuljs/issues/633)) ([eb4b4ec](https://www.github.com/TheRakeshPurohit/istanbuljs/commit/eb4b4ec8f4b858655a66b0033fcc662f44ef4cc9))
+* **magic-value:** make incrementing magic value a manual step ([#641](https://www.github.com/TheRakeshPurohit/istanbuljs/issues/641)) ([823010b](https://www.github.com/TheRakeshPurohit/istanbuljs/commit/823010b821cf81bd91377d75fc83f0875925db66))
+
+
+### Code Refactoring
+
+* istanbul-lib-instrument no longer uses babel ([8d3badb](https://www.github.com/TheRakeshPurohit/istanbuljs/commit/8d3badb8f6c9a4bed9af8e19c3ac6459ebd7267b))
+
 ## [5.1.0](https://www.github.com/istanbuljs/istanbuljs/compare/istanbul-lib-instrument-v5.0.4...istanbul-lib-instrument-v5.1.0) (2021-10-27)
 
 
